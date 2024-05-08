@@ -1,6 +1,8 @@
-# moodlewilliampuc,como configurarlo y agregar usuarios con un curso.
+# moodlewilliampuc, como configurarlo y agregar usuarios con un curso.
 
-lo primero que se tiene que realizar es bajar de github a local git clone https://github.com/Williampuc/moodlewilliampuc.git
+lo primero que se tiene que realizar es bajar de github a local <br> git clone https://github.com/Williampuc/moodlewilliampuc.git 
+<br<br>
+o con el codigo que dan en la pagina de docker hub el cual es curl -sSL https://raw.githubusercontent.com/bitnami/containers/main/bitnami/moodle/docker-compose.yml > docker compose.yml docker compose up -d
 ![imagen1](imagenes/primero.png) <br>
 
 con el comando cd se puede ver que se creo una carpeta con el nombre 
@@ -12,7 +14,7 @@ con el comando sudo doker-compose up -d se iniciara el moodle
 ahora se comprueba con la ip si se levanto el moodle 
 ![imagen4](imagenes/cuarto.png) <br>
 
-ahora ingresamos en moodle y iniciamos sesion can el usuario y la contraseña que son por default usuario:user contraseña:bitnami
+ahora ingresamos en moodle y iniciamos sesion can el usuario y la contraseña que son por default <br> usuario:user contraseña:bitnami<br>
 ![imagen5](imagenes/quinto.png) <br>
 
 creamos un curso el cual se llamara curso 1
