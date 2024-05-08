@@ -46,7 +46,28 @@ cuenta con 8 nucleos
  <br><br>
 ![imagen9](capturasdeMAC/primero.jpeg) <br>
 
-!ss
 
  # Examen realizado en MAC
 
+lo primero que se realiza es el compose
+![imagen10](capturasdeMAC/segundo.jpeg) <br>
+
+ahora se comprueba con el localhost si se levanto el moodle y se inicia sesion can el usuario y la contraseña que son por default usuario:user contraseña:bitnami
+![imagen11](capturasdeMAC/tercero.jpeg) <br>
+
+ahora creamos un curso con el nombre de curso 1
+![imagen12](capturasdeMAC/cuarto.jpeg) <br>
+![imagen13](capturasdeMAC/quinto.jpeg) <br>
+
+ahora agregamos a los usuarios y con el maestro raul caceres usamos como usuario: raul.ca@merida.tecnm.mx y como contraseña:E5un53cr3t0!
+![imagen14](capturasdeMAC/sexto_1.jpeg) <br>
+![imagen15](capturasdeMAC/sexto_2.jpeg) <br>
+![imagen16](capturasdeMAC/sexto_3.jpeg) <br>
+![imagen17](capturasdeMAC/sexto_4.jpeg) <br>
+
+como se puede observar se crearon lo usuarios
+![imagen18](capturasdeMAC/septimo.jpeg) <br>
+
+por ultimo se agregan tres usuarios al curso como alumnos y uno como maestro como se puede observar
+![imagen19](capturasdeMAC/octavo_1.jpeg) <br>
+![imagen20](capturasdeMAC/octavo_2.jpeg) <br>
