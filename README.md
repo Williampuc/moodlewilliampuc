@@ -1,7 +1,7 @@
 # moodlewilliampuc, como configurarlo y agregar usuarios con un curso.
 
 lo primero que se tiene que realizar es bajar de github a local <br> git clone https://github.com/Williampuc/moodlewilliampuc.git 
-<br<br>
+<br><br>
 o con el codigo que dan en la pagina de docker hub el cual es curl -sSL https://raw.githubusercontent.com/bitnami/containers/main/bitnami/moodle/docker-compose.yml > docker compose.yml docker compose up -d
 ![imagen1](imagenes/primero.png) <br>
 
