@@ -2,7 +2,7 @@
 
 lo primero que se tiene que realizar es bajar de github a local <br> git clone https://github.com/Williampuc/moodlewilliampuc.git 
 <br><br>
-o con el codigo que dan en la pagina de docker hub el cual es curl -sSL https://raw.githubusercontent.com/bitnami/containers/main/bitnami/moodle/docker-compose.yml > docker compose.yml docker compose up -d
+o con el codigo que dan en la pagina de docker hub el cual es <br> curl -sSL https://raw.githubusercontent.com/bitnami/containers/main/bitnami/moodle/docker-compose.yml > docker compose.yml docker compose up -d
 ![imagen1](imagenes/primero.png) <br>
 
 con el comando cd se puede ver que se creo una carpeta con el nombre 
@@ -57,7 +57,7 @@ lo primero que se realiza es el compose
 ahora se comprueba con el localhost si se levanto el moodle y se inicia sesion can el usuario y la contraseña que son por default usuario:user contraseña:bitnami
 ![imagen11](capturasdeMAC/tercero.jpeg) <br>
 
-ahora creamos un curso con el nombre de curso 1
+ahora creamos un curso con el nombre de curso1
 ![imagen12](capturasdeMAC/cuarto.jpeg) <br>
 ![imagen13](capturasdeMAC/quinto.jpeg) <br>
 
