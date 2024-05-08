@@ -8,9 +8,6 @@ o con el codigo que dan en la pagina de docker hub el cual es <br> curl -sSL htt
 con el comando cd se puede ver que se creo una carpeta con el nombre 
 ![imagen2](imagenes/segundo.png) <br>
 
-con el comando sudo doker-compose up -d se iniciara el moodle
-![imagen3](imagenes/tercero.png) <br>
-
 ahora se comprueba con la ip si se levanto el moodle 
 ![imagen4](imagenes/cuarto.png) <br>
 
