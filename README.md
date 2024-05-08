@@ -1,4 +1,4 @@
-# moodlewilliampuc, como configurarlo y agregar usuarios con un curso.
+# moodlewilliampuc,como configurarlo y agregar usuarios con un curso.
 
 lo primero que se tiene que realizar es bajar de github a local git clone https://github.com/Williampuc/moodlewilliampuc.git
 ![imagen1](imagenes/primero.png) <br>
