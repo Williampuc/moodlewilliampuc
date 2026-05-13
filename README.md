@@ -71,6 +71,6 @@ por ultimo se agregan tres usuarios al curso como alumnos y uno como maestro com
 ![imagen19](capturasdeMAC/octavo_1.jpeg) <br>
 ![imagen20](capturasdeMAC/octavo_2.jpeg) <br>
 
-# conclusion 
+# conclusión 
 
 En esta práctica, nos metimos en lo básico del Moodle, y nos pusimos manos a la obra con algunas configuraciones y gestiones básicas como es el agregar un curso y como es el agregar usuarios para ese curso. Aunque en esta práctica se realizo  lo básico, con más información se podría mejor y poder sacarle el mayor provecho a Moodle para crear y manejar cursos en línea de manera eficiente. También nos adentramos en cómo se combina con Docker y cómo se hace funcionar en su entorno, lo que nos dio una buena dosis de conocimientos sobre cómo enfrentar estos temas con éxito.
